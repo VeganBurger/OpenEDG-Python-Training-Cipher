@@ -1,5 +1,5 @@
 # OpenEDG-Python-Training-Cipher
-## Final assessment for the Python Programming  course by The Open University + OpenEDG
+### Final assessment for the Python Programming  course by The Open University + OpenEDG
 
 The final assessment for a python programming course. The requirements were as follow:
 
